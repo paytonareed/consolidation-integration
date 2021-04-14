@@ -5,5 +5,6 @@ For the Consolidation-Integration Unit I would like to both revisit and improve 
 * Add improved transitions/fades to my Audacity soundscape
 * Make any needed additional improvements to my Audacity soundscape 
 * Brainstorm and sketch out plans for one or two more additional visual arguments to make a cohesive series
+* Source additional assets
 * Use GIMP to create the additional visual arguments
 * Use Atom (html and css) to add an additional flexbox design to have all two or three images embedded in my website's header
