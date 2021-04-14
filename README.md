@@ -8,3 +8,8 @@ For the Consolidation-Integration Unit I would like to both revisit and improve 
 * Source additional assets
 * Use GIMP to create the additional visual arguments
 * Use Atom (html and css) to add an additional flexbox design to have all two or three images embedded in my website's header
+# Tentative Schedule
+* By Sunday 4/17: Have brainstorm and sketches done for additional visual arguments; begin soundscape revisions
+* By Tuesday 4/20: Have soundscape revisions completed, work on visual arguments
+* By Thursday 4/22: Have visual arguments completed, begin prose reflection
+* By Tuesday 2/27: Have reflection completed
