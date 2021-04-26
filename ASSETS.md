@@ -1,16 +1,13 @@
-# Asset List
-* Unsplash images for visual argument
-* Fonts from Font Squirrel for visual argument
-https://unsplash.com/s/photos/simple-house-exterior
-https://unsplash.com/photos/U1qm4IP44Rw
-https://thenounproject.com/search/?q=cloud&i=2891552
-https://thenounproject.com/search/?q=scroll+design&i=3292598
-https://unsplash.com/photos/-CwiIE7D5Qk
-https://unsplash.com/photos/OuOmA4_Sncc
-https://unsplash.com/photos/betJpW6fuoY
-https://unsplash.com/photos/8Ogfqvw15Rg
-https://unsplash.com/photos/heIaYq6A7tg
-https://unsplash.com/photos/y9csmronT3s
-https://unsplash.com/photos/c7RWVGL8lPA
-https://unsplash.com/photos/odxB5oIG_iA
-https://unsplash.com/photos/19SC2oaVZW0
+# Visual Argument Series Asset List
+* [white and brown concrete house](https://unsplash.com/photos/EItAcdPP-kk) by [Dhruv Mehra](https://unsplash.com/@dhruvsaranmehra) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [cloudy sky at daytime](https://unsplash.com/photos/U1qm4IP44Rw) by [K. Mitch Hodge](https://unsplash.com/@kmitchhodge) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [black plastic bags on floor](https://unsplash.com/photos/OuOmA4_Sncc) by [Jon Tyson](https://unsplash.com/@jontyson) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [white and brown duck on water](https://unsplash.com/photos/betJpW6fuoY) by [Xianyu hao](https://unsplash.com/@xianyuhao) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [iphone wallpaper photo](https://unsplash.com/photos/8Ogfqvw15Rg) by [Joel Vodell](https://unsplash.com/@joelvodell) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [white clouds over city buildings during daytime](https://unsplash.com/photos/c7RWVGL8lPA) by [Chris LeBoutillier](https://unsplash.com/@chrisleboutillier) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+[silhouette of a person standing on a rock in a body of water](https://unsplash.com/photos/odxB5oIG_iA) by [Mohamed Nohassi](https://unsplash.com/@coopery) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+[worms eye view of forest during daytime](https://unsplash.com/photos/19SC2oaVZW0) by [kazuend](https://unsplash.com/@kazuend) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
+* [Cloud](https://thenounproject.com/search/?q=cloud&i=2891552) by [Saifurrijal](https://thenounproject.com/sandhervillage/) sourced from [The Noun Project](https://thenounproject.com/) under the [Creative Commons License](https://creativecommons.org/licenses/by/3.0/us/legalcode)
+* [decorative corner](https://thenounproject.com/search/?q=scroll+design&i=3292598) by [Olena Panasovska, UA](https://thenounproject.com/zzyzz/) sourced from [The Noun Project](https://thenounproject.com/) under the [Creative Commons License](https://creativecommons.org/licenses/by/3.0/us/legalcode)
+# Auditory Revisions Asset List
+* [Dreamy remix of Tim Kahn's freesound#537181](https://freesound.org/people/Timbre/sounds/537532/) by [Timbre](https://freesound.org/people/Timbre/) sourced from [Freesound](https://freesound.org/) under the [Creative Commons Attribution-NonCommercial 3.0 Unported](https://creativecommons.org/licenses/by-nc/3.0/)
