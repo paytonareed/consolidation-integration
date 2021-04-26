@@ -1,5 +1,4 @@
-# Asset List
-# Visual Argument Series
+# Visual Argument Series Asset List
 * [white and brown concrete house](https://unsplash.com/photos/EItAcdPP-kk) by [Dhruv Mehra](https://unsplash.com/@dhruvsaranmehra) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
 * [cloudy sky at daytime](https://unsplash.com/photos/U1qm4IP44Rw) by [K. Mitch Hodge](https://unsplash.com/@kmitchhodge) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
 * [black plastic bags on floor](https://unsplash.com/photos/OuOmA4_Sncc) by [Jon Tyson](https://unsplash.com/@jontyson) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
@@ -10,5 +9,5 @@
 [worms eye view of forest during daytime](https://unsplash.com/photos/19SC2oaVZW0) by [kazuend](https://unsplash.com/@kazuend) sourced from [Unsplash](https://unsplash.com/) under the [Longform License](https://unsplash.com/license)
 * [Cloud](https://thenounproject.com/search/?q=cloud&i=2891552) by [Saifurrijal](https://thenounproject.com/sandhervillage/) sourced from [The Noun Project](https://thenounproject.com/) under the [Creative Commons License](https://creativecommons.org/licenses/by/3.0/us/legalcode)
 * [decorative corner](https://thenounproject.com/search/?q=scroll+design&i=3292598) by [Olena Panasovska, UA](https://thenounproject.com/zzyzz/) sourced from [The Noun Project](https://thenounproject.com/) under the [Creative Commons License](https://creativecommons.org/licenses/by/3.0/us/legalcode)
-# Auditory Revisions
+# Auditory Revisions Asset List
 * [Dreamy remix of Tim Kahn's freesound#537181](https://freesound.org/people/Timbre/sounds/537532/) by [Timbre](https://freesound.org/people/Timbre/) sourced from [Freesound](https://freesound.org/) under the [Creative Commons Attribution-NonCommercial 3.0 Unported](https://creativecommons.org/licenses/by-nc/3.0/)
